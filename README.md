@@ -1,5 +1,6 @@
 # 饭团音乐 · Music Fan
-[English README](../../README-EN.md)
+[English README](../../blob/main/README-EN.md)
+
 饭团音乐是一款 Android 音乐播放器，主要面向本地音乐以及个人自托管音乐库。
 
 它希望把分散在手机、个人服务器以及网络存储中的音乐，集中到一个统一的播放体验中。除了本地音乐外，目前支持 Navidrome、WebDAV 等音乐来源，并提供统一的音乐库、播放队列、歌词和离线播放功能。
